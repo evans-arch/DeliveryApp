@@ -1,0 +1,7 @@
+{
+  "name": "Smart Invoice Form",
+  "description": "A mobile-first invoice and delivery form with OCR capabilities powered by Gemini, digital signatures, and PDF generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
